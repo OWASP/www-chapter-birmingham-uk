@@ -9,6 +9,14 @@ region: Europe
 
 ---
 
+OWASP Birmingham UK
+-------------
+Welcome to the Birmingham UK Chapter homepage. 
+The chapter board is <a href="mailto:nathan.britton@owasp.org">Nathan Britton</a> and <a href="mailto:jim.gumbley@owasp.org">Jim Gumbley</a>. 
+Follow chapter news on [Twitter](https://twitter.com/owaspbrum) | [Meetup.com](https://meetup.com/OWASP-Birmingham)
+
+---
+
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
