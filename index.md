@@ -17,13 +17,28 @@ Follow chapter news on [Twitter](https://twitter.com/owaspbrum) | [Meetup.com](h
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Speaking at OWASP Birmingham UK Chapter Events
+---------------------------------------
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+#### Call For Speakers
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+We're always on the look out for speakers, whether from the local area or from anywhere and just in Birmingham for business or pleasure -  please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail (See links on the right hand side)
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+Next Meeting/Event(s)
+---------------------
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+TBC
+
+#### TALKS
+
+TBC
+
+#### SPEAKERS:
+
+TBC
+
+**Code of Conduct**:
+
+
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
 
