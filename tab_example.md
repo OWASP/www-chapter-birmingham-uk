@@ -1,27 +1,17 @@
 ---
-
-title: PastEvents
-displaytext: Past Events
-layout: null
+title: Example
+layout:  null
 tab: true
-order: 2
-tags: london
-
+order: 1
+tags: example-tag
 ---
 
-## Past Events
+## Example
+----
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all. weiser
 
-<hr>
+## Put more here to check layout
 
-### Thursday, 18h July 2019 (Canary Wharf)
+Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quoQuid pro quoQuid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo Quid pro quo
 
-**Location:** Revolut , The Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD
-
-**Nearest Tubes:** Canary Wharf (7-minute walk - take Canada Square exit), Canary Wharf DLR (7-minute walk)
-
-**Time:** Doors Open at 6:00pm for registration, food, drinks and networking. The talks start at 6:30pm (we start on time)
-
-#### TALKS:
-
--   **OWASP Introduction, Welcome and News - xxx
----
+## And Done
