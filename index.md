@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Birmingham uk
+title: OWASP Birmingham, UK
 tags: example-tag
 level: 3
 
