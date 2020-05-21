@@ -10,6 +10,6 @@
 * [Twitter](https://twitter.com/OWASPBirmingham)
 * [Linkedin](https://www.linkedin.com/groups/13735213/)
 * [Meetup.com](https://www.meetup.com/meetup-group-PDvbIQzf/)
-
+* [YouTube](https://www.youtube.com/channel/UCY1-o8cZCNgaMxEoILYYSHA)
 
 
