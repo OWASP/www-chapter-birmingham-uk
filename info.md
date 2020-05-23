@@ -12,4 +12,5 @@
 * [Meetup.com](https://www.meetup.com/meetup-group-PDvbIQzf/)
 * [YouTube](https://www.youtube.com/channel/UCY1-o8cZCNgaMxEoILYYSHA)
 
-
+### Code Repository
+* [Slides Repo](https://github.com/OWASP/www-chapter-birmingham-uk/tree/master/assets/slides)
