@@ -6,6 +6,9 @@ tags: birmingham-uk
 level: 3
 
 region: Europe
+meetup-group: meetup-group-PDvbIQzf
+country: United Kingdom
+postal-code: 
 
 ---
 
