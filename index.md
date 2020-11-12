@@ -30,20 +30,19 @@ We're always on the look out for speakers, whether from the local area or from a
 Next Meeting/Event(s)
 ---------------------
 
-OWASP Birmingham Chapter Meetup May 2020 (14th May 2020)
+OWASP Birmingham Chapter Meetup October 2020 
 
 #### TALKS
 
-First talk: “DevSecOps, it’s just a jump to the left…and then a step to the right ” – Dr Keith Batterham
+First talk: “Detect complex code patterns using semantic grep” – Yoann Padioleau
 
-Second talk: “How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection” – Jeff Williams
+Second talk: “Being secure by default” – Dan Abel
 
 #### SPEAKERS:
 
-Dr Keith Batterham is a cybersecurity specialist with more than 20 years experience in delivering cutting-edge technologies and organisational change.
+Yoann Padioleau is a software engineer at r2c, and the main author of Semgrep. Yoann started the AppSec, Test Engineering, and Program Analysis teams at Facebook.
 
-
-Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. He recently authored the DZone DevSecOps, IAST, and RASP refcards and speaks frequently at conferences including JavaOne (Java Rockstar), BlackHat, QCon, RSA, OWASP, Velocity, and PivotalOne. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 9 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. 
+Dan Abel has spent 25 years as a software engineer and technical leader. He works as a principal engineer for Tes Global. 
 
 **Code of Conduct**:
 
