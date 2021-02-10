@@ -30,19 +30,21 @@ We're always on the look out for speakers, whether from the local area or from a
 Next Meeting/Event(s)
 ---------------------
 
-OWASP Birmingham Chapter Meetup October 2020 
+OWASP Birmingham Chapter Meetup March 18th 2021 
 
 #### TALKS
 
-First talk: “Detect complex code patterns using semantic grep” – Yoann Padioleau
+First talk: “TLS Telemetry: Probing and testing HTTPS configurations for a more secure web” – David Warburton
 
-Second talk: “Being secure by default” – Dan Abel
+Second talk: TBC
 
 #### SPEAKERS:
 
-Yoann Padioleau is a software engineer at r2c, and the main author of Semgrep. Yoann started the AppSec, Test Engineering, and Program Analysis teams at Facebook.
-
-Dan Abel has spent 25 years as a software engineer and technical leader. He works as a principal engineer for Tes Global. 
+David Warburton is an information security threat researcher and evangelist for F5 Labs and frequently speaks at conferences and 
+with customers all over the world. His focus areas of research are on SSL/TLS and other cryptographic protocols and certificates, 
+digital identity, web application security, information risk management and compliance & regulation. A recent alumni of Royal Holloway 
+University where he wrote his MSc dissertation on IoT Security, he now works on identifying emerging cyber threats, producing actionable 
+intelligence reports and consulting on cyber security strategy within public sector, retail and financial organisations. 
 
 **Code of Conduct**:
 
