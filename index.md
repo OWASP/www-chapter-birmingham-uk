@@ -6,7 +6,7 @@ tags: birmingham-uk
 level: 3
 
 region: Europe
-meetup-group: meetup-group-PDvbIQzf
+meetup-group: meetup-group-OWASP-Birmingham
 country: United Kingdom
 postal-code: 
 
@@ -25,10 +25,13 @@ Speaking at OWASP Birmingham UK Chapter Events
 
 #### Call For Speakers
 
-We're always on the look out for speakers, whether from the local area or from anywhere and just in Birmingham for business or pleasure -  please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail (See links on the right hand side)
+We're always on the look out for speakers, whether from the local area or from anywhere and just in Birmingham for business or pleasure -  please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail (See links on the right hand side)
 
 Next Meeting/Event(s)
 ---------------------
+
+{% include chapter_events.html group=page.meetup-group %}
+
 
 OWASP Birmingham Chapter Meetup March 18th 2021 
 
@@ -49,5 +52,5 @@ intelligence reports and consulting on cyber security strategy within public sec
 **Code of Conduct**:
 
 
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: [Click](https://owasp.org/www-policy/)
 
