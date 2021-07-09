@@ -36,22 +36,6 @@ Next Meeting/Event(s)
 {% include chapter_events.html group=page.meetup-group %}
 
 
-OWASP Birmingham Chapter Meetup March 18th 2021 
-
-#### TALKS
-
-First talk: “TLS Telemetry: Probing and testing HTTPS configurations for a more secure web” – David Warburton
-
-Second talk: TBC
-
-#### SPEAKERS:
-
-David Warburton is an information security threat researcher and evangelist for F5 Labs and frequently speaks at conferences and 
-with customers all over the world. His focus areas of research are on SSL/TLS and other cryptographic protocols and certificates, 
-digital identity, web application security, information risk management and compliance & regulation. A recent alumni of Royal Holloway 
-University where he wrote his MSc dissertation on IoT Security, he now works on identifying emerging cyber threats, producing actionable 
-intelligence reports and consulting on cyber security strategy within public sector, retail and financial organisations. 
-
 **Code of Conduct**:
 
 
