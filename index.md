@@ -16,7 +16,7 @@ OWASP Birmingham UK
 -------------
 Welcome to the Birmingham UK Chapter homepage. 
 The chapter board is <a href="mailto:nathan.britton@owasp.org">Nathan Britton</a> and <a href="mailto:jim.gumbley@owasp.org">Jim Gumbley</a>. 
-Follow chapter news on [Twitter](https://twitter.com/owaspbrum) | [Meetup.com](https://meetup.com/OWASP-Birmingham)
+Follow chapter news on [Twitter](https://twitter.com/OWASPBirmingham) | [Meetup.com](https://www.meetup.com/meetup-group-OWASP-Birmingham)
 
 ## OWASP Birmingham UK is proudly celebrating OWASP's 20th Anniversary
 [![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
