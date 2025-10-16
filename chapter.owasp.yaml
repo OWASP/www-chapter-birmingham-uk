@@ -1,0 +1,23 @@
+leaders:
+  - name: Jim Gumbley
+    email: jim.gumbley@owasp.org
+  - name: Nathan Britton
+    email: nathan.britton@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Birmingham
+  latitude: 52.4796992
+  longitude: -1.9026911
+meetup_group: meetup-group-OWASP-Birmingham
+name: OWASP Birmingham, UK
+repositories:
+  - name: www-chapter-birmingham-uk
+    url: https://github.com/OWASP/www-chapter-birmingham-uk
+    description: OWASP Foundation Web Repository
+tags:
+  - birmingham-uk
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-birmingham-uk
